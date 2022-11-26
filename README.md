@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TriptSharma
 - 👀 I’m interested in Computer Vision and Deep Learning application for robotics
 - 🌱 I’m currently learning 3D perception, SLAM and autonomous system design
-- 💞️ I’m looking for internships in the rellated fields
+- 💞️ I’m looking for internships in related fields
 - 📫 Reach me at: tsharma@wpi.edu
 
 If I'm not coding, you can assume that I am watching anime or listening to music :P
