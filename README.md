@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Tript
 - 👀 I’m interested in Computer Vision and Deep Learning application for robotics
 - 🌱 I’m currently working on 3D reconstruction for autonomous systems
-- 💞️ I’m looking for internships in related fields
+- 💞️ I’m looking for people to sponsor my coffee
 - 📫 Reach me at: tsharma@wpi.edu
 
 Areas of Recent Interest: NeRFs, Spatial Reasoning, Generative AI and SLAM
